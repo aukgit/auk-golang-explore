@@ -4,6 +4,8 @@
 # References
 - https://github.com/aukgit/project-layout
 - https://github.com/aukgit/awesome-go
+- https://www.npmjs.com/package/go-npm (Cross-platform go publisher)
+- https://github.com/golang/go/wiki/PackageManagementTools (Go Package managers)
 
 # Training
 - https://www.gettoby.com/p/wwqvqavwprg3
