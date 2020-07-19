@@ -9,6 +9,7 @@ Links and folder strucutre testing for golang by Md. Alim Ul Karim (@aukgit).
 # Packages, Modules, Managers
 - https://github.com/golang/go/wiki/PackageManagementTools (Go Package managers)
 - https://medium.com/mindorks/create-projects-independent-of-gopath-using-go-modules-802260cdfb51
+- https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16 (Go Modules Best Example)
 
 # Training
 - https://www.gettoby.com/p/wwqvqavwprg3
