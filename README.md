@@ -1,21 +1,27 @@
 # auk-golang-explore
+
 Links and folder strucutre testing for golang by Md. Alim Ul Karim (@aukgit).
  
 # References
+
 - https://github.com/aukgit/project-layout
 - https://github.com/aukgit/awesome-go
 - https://www.npmjs.com/package/go-npm (Cross-platform go publisher)
 
 # Packages, Modules, Managers
+
 - https://github.com/golang/go/wiki/PackageManagementTools (Go Package managers)
 - https://medium.com/mindorks/create-projects-independent-of-gopath-using-go-modules-802260cdfb51
 - https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16 (Go Modules Best Example)
-
+- https://stackoverflow.com/questions/33351387/how-to-use-internal-packages (internal folder structure)
 # Training
+
 - https://www.gettoby.com/p/wwqvqavwprg3
 
 
 # Choice of Frameworks
+
+-
 
 
 # Mvc Framework
